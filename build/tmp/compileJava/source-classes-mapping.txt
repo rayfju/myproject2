@@ -1,0 +1,10 @@
+com/fju/ScoringNG.java
+ com.fju.ScoringNG
+com/fju/Hello.java
+ com.fju.Hello
+com/fju/Scoring.java
+ com.fju.Scoring
+com/fju/GraduateStudent.java
+ com.fju.GraduateStudent
+com/fju/Student.java
+ com.fju.Student
