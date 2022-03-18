@@ -12,5 +12,7 @@ com/fju/SilverCustomer.java
  com.fju.SilverCustomer
 com/fju/Customer.java
  com.fju.Customer
+com/fju/GoldenCustomer.java
+ com.fju.GoldenCustomer
 com/fju/Shopping.java
  com.fju.Shopping
