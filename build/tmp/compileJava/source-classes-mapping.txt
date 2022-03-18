@@ -1,10 +1,16 @@
-com/fju/ScoringNG.java
- com.fju.ScoringNG
-com/fju/Hello.java
- com.fju.Hello
 com/fju/Scoring.java
  com.fju.Scoring
+com/fju/Hello.java
+ com.fju.Hello
+com/fju/ScoringNG.java
+ com.fju.ScoringNG
 com/fju/GraduateStudent.java
  com.fju.GraduateStudent
 com/fju/Student.java
  com.fju.Student
+com/fju/SilverCustomer.java
+ com.fju.SilverCustomer
+com/fju/Customer.java
+ com.fju.Customer
+com/fju/Shopping.java
+ com.fju.Shopping
