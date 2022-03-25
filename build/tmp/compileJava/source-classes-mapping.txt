@@ -1,18 +1,18 @@
-com/fju/Scoring.java
- com.fju.Scoring
+com/fju/score/Scoring.java
+ com.fju.score.Scoring
+com/fju/shopping/Customer.java
+ com.fju.shopping.Customer
+com/fju/shopping/GoldenCustomer.java
+ com.fju.shopping.GoldenCustomer
 com/fju/Hello.java
  com.fju.Hello
-com/fju/ScoringNG.java
- com.fju.ScoringNG
-com/fju/GraduateStudent.java
- com.fju.GraduateStudent
-com/fju/Student.java
- com.fju.Student
-com/fju/SilverCustomer.java
- com.fju.SilverCustomer
-com/fju/Customer.java
- com.fju.Customer
-com/fju/GoldenCustomer.java
- com.fju.GoldenCustomer
-com/fju/Shopping.java
- com.fju.Shopping
+com/fju/shopping/SilverCustomer.java
+ com.fju.shopping.SilverCustomer
+com/fju/score/Student.java
+ com.fju.score.Student
+com/fju/shopping/Shopping.java
+ com.fju.shopping.Shopping
+com/fju/score/GraduateStudent.java
+ com.fju.score.GraduateStudent
+com/fju/score/ScoringNG.java
+ com.fju.score.ScoringNG

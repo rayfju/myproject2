@@ -1,4 +1,4 @@
-package com.fju;
+package com.fju.shopping;
 
 public  class Customer {
     String name;

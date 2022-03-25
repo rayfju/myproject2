@@ -1,4 +1,4 @@
-package com.fju;
+package com.fju.score;
 
 public class Scoring {
     public static void main(String[] args) {

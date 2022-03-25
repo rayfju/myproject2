@@ -1,4 +1,4 @@
-package com.fju;
+package com.fju.score;
 
 public class Student {
     String name;

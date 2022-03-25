@@ -1,4 +1,4 @@
-package com.fju;
+package com.fju.shopping;
 
 public class GoldenCustomer extends SilverCustomer {
     public GoldenCustomer(String name,int price){

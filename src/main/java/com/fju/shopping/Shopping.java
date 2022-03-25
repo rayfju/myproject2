@@ -1,6 +1,4 @@
-package com.fju;
-
-import jdk.swing.interop.SwingInterOpUtils;
+package com.fju.shopping;
 
 public class Shopping {
     public static void main(String[] args) {
