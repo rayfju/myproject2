@@ -4,19 +4,12 @@ public class Ticket {
     Station start;
     Station destination;
     int amount;
-    int price;
-    public Ticket(Station start,Station destination,int amount,int price){
+    public Ticket(Station start,Station destination,int amount){
         this.start=start;
         this.destination=destination;
         this.amount=amount;
-        this.price=price;
     }
-
-    public Ticket(Station start, Station destination, int amount) {
-
-    }
-
-    public int price(){
+    public float price(){
         if(start.id==100&&destination.id==200||start.id==200&&destination.id==100){
             return 600;
         }else if(start.id==200&&destination.id==300||start.id==300&&destination.id==200) {
