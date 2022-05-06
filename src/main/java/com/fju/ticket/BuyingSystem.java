@@ -42,7 +42,7 @@ public class BuyingSystem {
         int n = Integer.parseInt(scanner.next());
         switch (choice2) {
             case 1:
-                Ticket ticket = new Ticket(begin, destination, n);
+                Ticket ticket = new Ticket(begin, destination);
                 list.add(ticket);
                 break;
             case 2:
