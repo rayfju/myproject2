@@ -1,5 +1,7 @@
 com/fju/ticket/StudentTicket.java
  com.fju.ticket.StudentTicket
+com/fju/score/Printable.java
+ com.fju.score.Printable
 com/fju/shopping/Customer.java
  com.fju.shopping.Customer
 com/fju/Hello.java
@@ -8,12 +10,16 @@ com/fju/shopping/SilverCustomer.java
  com.fju.shopping.SilverCustomer
 com/fju/ticket/OldTicket.java
  com.fju.ticket.OldTicket
+com/fju/ticket/Station.java
+ com.fju.ticket.Station
 com/fju/ticket/Ticket.java
  com.fju.ticket.Ticket
 com/fju/score/GraduateStudent.java
  com.fju.score.GraduateStudent
 com/fju/score/Student.java
  com.fju.score.Student
+com/fju/shopping/MyInteface.java
+ com.fju.shopping.MyInteface
 com/fju/ticket/ReturnTicket.java
  com.fju.ticket.ReturnTicket
 com/fju/score/Scoring.java
@@ -26,5 +32,7 @@ com/fju/score/ScoringNG.java
  com.fju.score.ScoringNG
 com/fju/shopping/Shopping.java
  com.fju.shopping.Shopping
-com/fju/ticket/Station.java
- com.fju.ticket.Station
+com/fju/shopping/MyClass.java
+ com.fju.shopping.MyClass
+com/fju/parking/Runner.java
+ com.fju.parking.Runner
