@@ -34,5 +34,15 @@ com/fju/shopping/Shopping.java
  com.fju.shopping.Shopping
 com/fju/shopping/MyClass.java
  com.fju.shopping.MyClass
+com/fju/ui/MyForm.java
+ com.fju.ui.MyForm
+com/fju/ui/MyWin.java
+ com.fju.ui.MyWin
+ com.fju.ui.MyWin$1
+com/fju/ui/MyActionListener.java
+ com.fju.ui.MyActionListener
 com/fju/parking/Runner.java
  com.fju.parking.Runner
+com/fju/ui/GuessFrame.java
+ com.fju.ui.GuessFrame
+ com.fju.ui.GuessFrame$1
